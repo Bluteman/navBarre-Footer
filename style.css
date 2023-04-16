@@ -1,0 +1,9 @@
+* {
+  marin: 0px;
+  paddind: 0px;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #0B111E;
+}
